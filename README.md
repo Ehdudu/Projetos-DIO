@@ -1,2 +1,3 @@
-# Desafio-DIO-GItHub
-Repositório criado para o desafio de projeto de GIt/GitHub
+# Desafios do DIO
+
+Repositório criado com a finalidade de realizar os desafios propostos pela DIO ao longo de seus bootcamps.
